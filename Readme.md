@@ -3,6 +3,8 @@ Control an automation system according to an informal specification.
 
 #### 1. Open the solution 05_AutomationSimulator
 
+![1](https://user-images.githubusercontent.com/18269686/60725343-63008f00-9f28-11e9-874f-698789c64a6f.png)
+
 The project consists of a physical 2D process simulation and a visualization. The
 components are
 * There is a wagon that is moving left and right. It has a limited acceleration a
